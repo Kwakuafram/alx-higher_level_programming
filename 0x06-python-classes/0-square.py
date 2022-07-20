@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-"0-square.py define"
+""" Defines a class Square"""
 
 
 class Square:
-    """Class Samu
-    """
+    """An empty Square class """
     pass
