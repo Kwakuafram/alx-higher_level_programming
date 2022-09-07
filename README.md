@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Toggle navigation
 0x0E. SQL - More queries
 SQL
@@ -656,3 +657,6 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0E-SQL_more_queries
 File: 16-shows_by_genre.sql
+=======
+0x00. Python - Hello, World
+>>>>>>> 1a59fdf99f15c6a9b3a9e1da47848cd521f9c978
