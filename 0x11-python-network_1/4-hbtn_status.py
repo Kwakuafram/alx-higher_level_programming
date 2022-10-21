@@ -5,7 +5,7 @@ import requests
 
 def myFirstRequest():
     """My requests"""
-    x = requests.get('https://intranet.hbtn.io/status')
+    x = requests.get('https://alx-intranet.hbtn.io/status')
     print("Body response:")
     print("\t- type: {}".format(type(x.text)))
     print("\t- content: {}".format(x.text))
